@@ -6,5 +6,5 @@ def f(a):
 
 A=[2,1,-1]
 y=f(A)
-print(y)
+print(np.round(y,2))
 print(sum(y))
